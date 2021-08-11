@@ -1,3 +1,4 @@
+/* Navbar Toggler */
 const menuToggle = document.querySelector(".navbar-toggler");
 const menuBtn = document.querySelector("#menu-btn");
 let menuOpen = false;
